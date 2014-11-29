@@ -53,7 +53,109 @@
 
 	</resume>
 
+	<resume rID="r2">
 
+                <summary>Summary2</summary>
+
+                <identification>
+                        <name>
+                                <forename>Bob2</forename>
+                                <surname>Widom2</surname>
+                                <honorific>Mr.</honorific>
+                                <title>Student</title>
+                        </name>
+                        <sex>male</sex>
+                        <DOB>Jan 2</DOB>
+                        <citizenship>Chinese</citizenship>
+                        <address>Wallstreet</address>
+                        <telephone>312312312</telephone>
+                        <email>Bob2@gmail.com</email>
+                </identification>
+
+                <education>
+                        <degree level="undergraduate">
+                                <degreeName>Bachelor of Science</degreeName>
+                                <institution>University of Waterloo</institution>
+                                <major>Science</major>
+                                <minor/>
+                                <honours/>
+                                <period>
+                                        <startDate>2007</startDate>
+                                        <endDate>2012</endDate>
+                                </period>
+                        </degree>
+                </education>
+
+                <experience>
+                        <position where="KFC">
+                                <title>Cook</title>
+                                <description>Cooking</description>
+                                <period>
+                                        <startDate>2012</startDate>
+                                        <endDate>2014</endDate>
+                                </period>
+                        </position>
+                </experience>
+
+                <skills>
+                        <skill what="C" level="5"/>
+			<skill what="SQL" level="3"/>
+			<skill what="Lisp" level="2"/>
+                </skills>
+
+        </resume>
+
+	 <resume rID="r3">
+
+                <summary>Summary3</summary>
+
+                <identification>
+                        <name>
+                                <forename>Bob3</forename>
+                                <surname>Widom3</surname>
+                                <honorific>Mr.</honorific>
+                                <title>Student</title>
+                        </name>
+                        <sex>female</sex>
+                        <DOB>Jan 1</DOB>
+                        <citizenship>Canadian</citizenship>
+                        <address>Homeless</address>
+                        <telephone>1231231234</telephone>
+                        <email>Bob3@gmail.com</email>
+                </identification>
+
+                <education>
+                        <degree level="undergraduate">
+                                <degreeName>Bachelor of CS</degreeName>
+                                <institution>University of Toronto</institution>
+                                <major>Computer Science</major>
+                                <minor>Biology</minor>
+                                <honours/>
+                                <period>
+                                        <startDate>2008</startDate>
+                                        <endDate>2012</endDate>
+                                </period>
+                        </degree>
+                </education>
+
+                <experience>
+                        <position where="KFC">
+                                <title>Cook</title>
+                                <description>Cooking</description>
+                                <period>
+                                        <startDate>2012</startDate>
+                                        <endDate>2014</endDate>
+                                </period>
+                        </position>
+                </experience>
+
+                <skills>
+			<skill what="XQuery" level="3"/>
+			<skill what="SQL" level="2"/>
+                        <skill what="C" level="5"/>
+                </skills>
+
+        </resume>
 
 
 </resumes>
