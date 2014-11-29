@@ -1,0 +1,36 @@
+resumes
+
+        resume rid 
+                summary
+                identification
+                        name
+                                forename
+                                surname
+                                honorific
+                                title
+                        sex
+                        dob
+                        citizenship
+                        address
+                        telephone
+                        email
+                education
+                        degree att_level
+                                degreename
+                                institution
+                                major
+                                minor
+                                honours
+                                period
+                                        startdate
+                                        enddate
+                experience 
+                        position att_where
+                                title
+                                description 
+                                period
+                                        startdate 
+                                        enddate 
+                skills
+                        skill att_what att_level
+
