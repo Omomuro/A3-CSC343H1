@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE postings SYSTEM "posting.dtd">
+
+<postings>
+
+	<posting pID="p1">
+
+		<position>CEO</position>
+		<reqSkill what="C" level="5" importance="1"/>
+		<questions>
+
+			<question qID="q2">What is life?</question>
+
+		</questions>
+
+	</posting>
+
+</postings>

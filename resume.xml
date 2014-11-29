@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE resumes SYSTEM "resume.dtd">
+
+<resumes>
+
+	<resume rID="r1">
+
+		<summary>Summary</summary>
+
+		<identification>
+			<name>
+				<forename>Bob</forename>
+				<surname>McFaggot</surname>
+				<honorific>Mr.</honorific>
+				<title>Cocksucker</title>
+			</name>
+			<sex>Unidentified</sex>
+			<DOB>Jan 1</DOB>
+			<citizenship>Canadian</citizenship>
+			<address>Homeless</address>
+			<telephone>8==D</telephone>
+			<email>BobMcFaggot69@gmail.com</email>
+		</identification>
+
+		<education> 
+			<degree level="undergraduate">
+				<degreeName>Bachelor of Faggots</degreeName>
+				<institution>University of Faggotry</institution>
+				<major>Being a Faggot</major>
+				<minor>Sucking cock</minor>
+				<honours/> 
+				<period> 
+					<startDate>2008</startDate>
+					<endDate>2012</endDate>
+				</period>
+			</degree>
+		</education>
+
+		<experience> 
+			<position where="Kentucky Fried Faggots"> 
+				<title>Cocksucker</title>
+				<description>Sucks alot of cock</description>
+				<period>
+					<startDate>The day he was born</startDate>
+					<endDate>Eternity</endDate>
+				</period>
+			</position>
+		</experience>
+
+		<skills> 
+			<skill what="C" level="5"/>
+		</skills>
+
+	</resume>
+
+
+
+
+</resumes>

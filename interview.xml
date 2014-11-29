@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE interviews SYSTEM "interview.dtd">
+
+<interviews>
+
+	<interview rID="r1" pID="p1" sID="s1"> 
+
+		<date>Jan 1 </date>
+		<time>10:45</time>
+		<location> Toronto </location>
+		<assessment> 
+
+			<answers> 
+
+				<answer qID="q2">42</answer>
+
+			</answers>
+			<techProficiency>100 </techProficiency>
+			<communication>100</communication>
+			<enthusiasm>100</enthusiasm>
+			<collegiality>100</collegiality>
+
+		</assessment>
+
+	</interview>
+
+	<interviewer sID="s1">
+
+		<forename>Bill</forename>
+		<surname>Gates</surname>
+		<honorific>Dr.</honorific>
+		<title>Chief Executive Officer</title>
+
+	</interviewer>
+
+</interviews>
+
+
+
