@@ -10,24 +10,24 @@
 		<identification>
 			<name>
 				<forename>Bob</forename>
-				<surname>McFaggot</surname>
+				<surname>Widom</surname>
 				<honorific>Mr.</honorific>
-				<title>Cocksucker</title>
+				<title>Student</title>
 			</name>
-			<sex>Unidentified</sex>
+			<sex>male</sex>
 			<DOB>Jan 1</DOB>
 			<citizenship>Canadian</citizenship>
 			<address>Homeless</address>
-			<telephone>8==D</telephone>
-			<email>BobMcFaggot69@gmail.com</email>
+			<telephone>1231231234</telephone>
+			<email>Bob@gmail.com</email>
 		</identification>
 
 		<education> 
 			<degree level="undergraduate">
-				<degreeName>Bachelor of Faggots</degreeName>
-				<institution>University of Faggotry</institution>
-				<major>Being a Faggot</major>
-				<minor>Sucking cock</minor>
+				<degreeName>Bachelor of CS</degreeName>
+				<institution>University of Toronto</institution>
+				<major>Computer Science</major>
+				<minor>Biology</minor>
 				<honours/> 
 				<period> 
 					<startDate>2008</startDate>
@@ -37,12 +37,12 @@
 		</education>
 
 		<experience> 
-			<position where="Kentucky Fried Faggots"> 
-				<title>Cocksucker</title>
-				<description>Sucks alot of cock</description>
+			<position where="KFC"> 
+				<title>Cook</title>
+				<description>Cooking</description>
 				<period>
-					<startDate>The day he was born</startDate>
-					<endDate>Eternity</endDate>
+					<startDate>2012</startDate>
+					<endDate>2014</endDate>
 				</period>
 			</position>
 		</experience>
